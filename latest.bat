@@ -1,2 +1,2 @@
-set releaseName=2.7
+set releaseName=2.8
 set newRelease=10
